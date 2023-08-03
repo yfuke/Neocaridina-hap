@@ -1,5 +1,6 @@
 # Neocaridina-hap
-Haplotype list of *Neocaridina* spp. in Japan.
+Here is a haplotype list of *Neocaridina* spp. in Japan used in our study.
+See our paper for correspondence between haplotype names and species.
 Please cite the following paper when using these sequences.
 
 ### Neocaridina-Biwa-hap.fasta

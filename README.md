@@ -8,7 +8,7 @@ Onuki K, Fuke Y. 2022. Rediscovery of a native freshwater shrimp, *Neocaridina d
 
 
 # Neocaridina-hap
-琵琶湖周辺で実施したカワリヌマエビ属エビ類のmtDNA COIハプロタイプのリストを公開しています。
+琵琶湖周辺で実施したカワリヌマエビ属の研究で検出されたmtDNA COIハプロタイプのリストを公開しています。
 ハプロタイプ名と種の対応については、以下の論文を参照してください。
 もしあなたの研究でこれらの配列を使用する際には、以下の論文を引用してください。
 
